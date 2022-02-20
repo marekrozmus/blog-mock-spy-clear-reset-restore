@@ -1,1 +1,1 @@
-This is repository for the blog post: [Jest mock and spy - mockClear vs mockReset vs mockRestore]()
+This is repository for the blog post: [Jest mock and spy - mockClear vs mockReset vs mockRestore](https://marek-rozmus.medium.com/jest-mock-and-spy-mockclear-vs-mockreset-vs-mockrestore-f52395581950?source=friends_link&sk=0958f2572071d35d8b3061491040f3ed)
